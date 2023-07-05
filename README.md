@@ -1,4 +1,4 @@
-# Finance-Analysis
+# Financial-Analysis
 - Use Excel to track monthly income, expenses, and savings from 2020 to 2023. Import Excel into Power BI to create a financial dashboard and identify spending patterns.
 * This project is helpful to anyone who wants to track personal expenses, income, and financial goals.
 
